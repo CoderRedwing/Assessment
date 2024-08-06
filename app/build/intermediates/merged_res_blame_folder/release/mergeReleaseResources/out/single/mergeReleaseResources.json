@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myfirstandroidapp-pngs-24:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myfirstandroidapp-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myfirstandroidapp-pngs-24:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/layout_item_view.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/layout/item_view.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/drawable_ic_profile.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/xml_backup_rules.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/layout_text_view_item.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/layout/text_view_item.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myfirstandroidapp-pngs-24:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myfirstandroidapp-pngs-24:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myfirstandroidapp-pngs-24:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myfirstandroidapp-pngs-24:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/layout_activity_recycler_view.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/layout/activity_recycler_view.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/layout_activity_main.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/layout_activity_second.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/layout/activity_second.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-release-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.myfirstandroidapp-main-29:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

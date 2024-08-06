@@ -1,0 +1,4 @@
+com.example.myfirstandroidapp.test.app-androidTest-0 /home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/build/generated/res/resValues/androidTest/debug
+com.example.myfirstandroidapp.test.app-mergeDebugAndroidTestResources-1 /home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.myfirstandroidapp.test.app-mergeDebugAndroidTestResources-2 /home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.myfirstandroidapp.test.app-debugAndroidTest-3 /home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

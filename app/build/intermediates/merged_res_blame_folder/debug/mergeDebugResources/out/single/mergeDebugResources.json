@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/layout_activity_second.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/layout/activity_second.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/layout_activity_recycler_view.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/layout/activity_recycler_view.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-pngs-24:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/layout_activity_main.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-pngs-24:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-pngs-24:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myfirstandroidapp-debug-28:/layout_activity_main.xml.flat",
+        "source": "com.example.myfirstandroidapp-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-pngs-24:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/drawable_ic_profile.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-pngs-24:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/xml_backup_rules.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/layout_item_view.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/layout/item_view.xml"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-pngs-24:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-debug-28:/layout_text_view_item.xml.flat",
+        "source": "/home/ajiatesh/.gradle/daemon/8.7/com.example.myfirstandroidapp-main-30:/layout/text_view_item.xml"
+    }
+]

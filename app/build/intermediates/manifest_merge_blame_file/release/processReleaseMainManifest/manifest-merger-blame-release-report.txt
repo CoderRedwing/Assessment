@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myfirstandroidapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:5:5-65
+11-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:5:22-62
+12
+13    <permission
+13-->[androidx.core:core:1.12.0] /home/ajiatesh/.gradle/caches/transforms-4/85e65d1d6d371584add56888aec0784b/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.myfirstandroidapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.12.0] /home/ajiatesh/.gradle/caches/transforms-4/85e65d1d6d371584add56888aec0784b/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.12.0] /home/ajiatesh/.gradle/caches/transforms-4/85e65d1d6d371584add56888aec0784b/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.myfirstandroidapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.12.0] /home/ajiatesh/.gradle/caches/transforms-4/85e65d1d6d371584add56888aec0784b/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.12.0] /home/ajiatesh/.gradle/caches/transforms-4/85e65d1d6d371584add56888aec0784b/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:7:5-34:19
+20        android:allowBackup="true"
+20-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.12.0] /home/ajiatesh/.gradle/caches/transforms-4/85e65d1d6d371584add56888aec0784b/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+22        android:extractNativeLibs="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:12:9-35
+27        android:theme="@style/Theme.MyFirstAndroidApp" >
+27-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:13:9-55
+28        <activity
+28-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:15:9-22:20
+29            android:name="com.example.myfirstandroidapp.MainActivity"
+29-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:16:13-41
+30            android:exported="true" >
+30-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:17:13-36
+31            <intent-filter>
+31-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:18:13-21:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:19:17-69
+32-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:19:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:20:17-77
+34-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:20:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity
+37-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:24:9-27:20
+38            android:name="com.example.myfirstandroidapp.SecondActivity"
+38-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:25:13-43
+39            android:exported="true" >
+39-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:26:13-36
+40        </activity>
+41        <activity
+41-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:29:9-32:20
+42            android:name="com.example.myfirstandroidapp.RecyclerViewActivity"
+42-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:30:13-49
+43            android:exported="true" >
+43-->/home/ajiatesh/AndroidStudioProjects/MyFirstAndroidApp/app/src/main/AndroidManifest.xml:31:13-36
+44        </activity>
+45
+46        <provider
+46-->[androidx.emoji2:emoji2:1.2.0] /home/ajiatesh/.gradle/caches/transforms-4/cc2e8825541d2f049875470b16a9c3ac/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+47            android:name="androidx.startup.InitializationProvider"
+47-->[androidx.emoji2:emoji2:1.2.0] /home/ajiatesh/.gradle/caches/transforms-4/cc2e8825541d2f049875470b16a9c3ac/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+48            android:authorities="com.example.myfirstandroidapp.androidx-startup"
+48-->[androidx.emoji2:emoji2:1.2.0] /home/ajiatesh/.gradle/caches/transforms-4/cc2e8825541d2f049875470b16a9c3ac/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+49            android:exported="false" >
+49-->[androidx.emoji2:emoji2:1.2.0] /home/ajiatesh/.gradle/caches/transforms-4/cc2e8825541d2f049875470b16a9c3ac/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+50            <meta-data
+50-->[androidx.emoji2:emoji2:1.2.0] /home/ajiatesh/.gradle/caches/transforms-4/cc2e8825541d2f049875470b16a9c3ac/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+51-->[androidx.emoji2:emoji2:1.2.0] /home/ajiatesh/.gradle/caches/transforms-4/cc2e8825541d2f049875470b16a9c3ac/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+52                android:value="androidx.startup" />
+52-->[androidx.emoji2:emoji2:1.2.0] /home/ajiatesh/.gradle/caches/transforms-4/cc2e8825541d2f049875470b16a9c3ac/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+53            <meta-data
+53-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/ajiatesh/.gradle/caches/transforms-4/e5398768d2550c298c51861bd54b3caa/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/ajiatesh/.gradle/caches/transforms-4/e5398768d2550c298c51861bd54b3caa/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+55                android:value="androidx.startup" />
+55-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/ajiatesh/.gradle/caches/transforms-4/e5398768d2550c298c51861bd54b3caa/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+56        </provider>
+57    </application>
+58
+59</manifest>
